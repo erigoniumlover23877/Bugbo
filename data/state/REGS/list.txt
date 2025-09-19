@@ -15,7 +15,7 @@ dermaptera
 plecoptera
 acrididae
 tettigoniidae
-raphidophoridae
+rhaphidophoridae
 gryllidae
 gryllotalpidae
 diapheromeridae
