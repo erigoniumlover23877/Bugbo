@@ -1,6 +1,6 @@
 tetrigidae,pygmy grasshoppers
 acrididae,short-horned grasshoppers
 tettigoniidae,katydids
-rhaphidophoridae,camel crickets,cave crickets
+rhaphidophoridae,camel crickets,cave crickets,spider crickets,sand treaders
 gryllidae,true crickets
 gryllotalpidae,mole crickets
