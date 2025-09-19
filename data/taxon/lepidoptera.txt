@@ -5,8 +5,10 @@ papilionidae,swallowtails,parnassians
 pieridae,whites,yellows,sulphurs
 lycaenidae,gossamer-winged butterflies
 nymphalidae,brush-footed butterflies
-danainae,danaidae,milkweed butterflies
+geometridae,geometer moths,inchworms
+lasiocampidae,tent caterpillar moths,lappet moths,eggars,tent caterpillars
 pyralidae,pyralid snout moths
 saturniidae,emperor moths,giant silk moths
 sphingidae,sphinx moths
 erebidae,underwing moths,tiger moths,tussock moths
+noctuidae,owlet moths
