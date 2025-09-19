@@ -55,7 +55,7 @@ config: Dict[str, Any] = {
         "odonata": ["dragonflies", "damselflies"],
         "blattodea": ["cockroaches", "termites"],
         "mantodea": ["mantises"],
-        "notoptera": ["ice crawlers", "heelwalkers"],
+        "embioptera": ["webspinners"]
         "dermaptera": ["earwigs"],
         "plecoptera": ["stoneflies"],
         "orthoptera": ["grasshoppers", "crickets", "katydids"],
@@ -66,7 +66,6 @@ config: Dict[str, Any] = {
         "megaloptera": ["alderflies", "dobsonflies", "fishflies"],
         "neuroptera": ["antlions", "lacewings"],
         "coleoptera": ["beetles"],
-        "strepsiptera": ["twisted-wing insects"],
         "mecoptera": ["scorpionflies", "hangingflies"],
         "raphidioptera": ["snakeflies"],
         "siphonaptera": ["fleas"],
