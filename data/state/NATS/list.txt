@@ -19,7 +19,7 @@ plecoptera
 tetrigidae
 acrididae
 tettigoniidae
-raphidophoridae
+rhaphidophoridae
 gryllidae
 gryllotalpidae
 diapheromeridae
