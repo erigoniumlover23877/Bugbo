@@ -11,4 +11,4 @@ pyralidae,pyralid snout moths
 saturniidae,emperor moths,giant silk moths
 sphingidae,sphinx moths
 erebidae,underwing moths,tiger moths,tussock moths
-noctuidae,owlet moths
+noctuidae,owlet moths,army worms,cutworms
