@@ -1,1 +1,3 @@
-blattodea,cockroaches,termites
+termitidae,termites
+blattidae,household roaches,household cockroaches
+cryptocercidae,brown-hooded roaches,wood roaches,brown-hooded cockroaches
