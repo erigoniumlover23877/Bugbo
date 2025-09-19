@@ -9,6 +9,7 @@ COUNT = 5
 TAXON_ID_URL = "https://api.inaturalist.org/v1/taxa?q={taxon}"
 OBSERVATIONS_URL = (
     "https://api.inaturalist.org/v1/observations?photos=true&photo_licensed=true"
+    + "&place_id=46,10,50,22,14,16,15,52,34,40,9,13,44,3,25,12,18,38,24,28,36,27,32,29,35,20,31,33,26,45,37,19,17,41,47,2,8,49,48,51,42,4,39,5,7,30,43,23,21"
     + "&taxon_id={taxon_id}&quality_grade=research&per_page={count}"
     + "&order_by=id&order=asc&id_above={last_id}"
 )
