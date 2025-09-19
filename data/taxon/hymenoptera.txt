@@ -6,7 +6,7 @@ mutillidae,velvet ants
 formicidae,ants
 vespidae,hornets,paper wasps,potter wasps
 sphecidae,thread-waisted wasps
-colletidae,plasterer bees
+braconidae,braconid wasps
 halictidae,sweat bees
 megachilidae,mason bees,leafcutter bees,carder bees,resin bees
 apidae,honey bees,bumble bees
